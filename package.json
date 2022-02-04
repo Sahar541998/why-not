@@ -1,0 +1,31 @@
+{
+  "name": "why-not",
+  "version": "1.0.0",
+  "description": "Becasue why not?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahar541998/why-not.git"
+  },
+  "keywords": [
+    "why",
+    "not",
+    "why-not",
+    "react",
+    "hooks",
+    "react-hooks"
+  ],
+  "author": "Sahar Levy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahar541998/why-not/issues"
+  },
+  "homepage": "https://github.com/Sahar541998/why-not#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "typescript": "^4.5.5"
+  }
+}
